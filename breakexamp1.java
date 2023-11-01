@@ -1,4 +1,4 @@
-public class breakexamp1 {
+public class breakexamp1 {//this line is a class declaration
 
     public static void main(String args[]) {
         int x = 10;
